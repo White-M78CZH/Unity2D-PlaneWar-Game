@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: CixMtS34VXNZjTDRbNNMxMVdHBapzolTcZsEgrHtPURoVGiL6Ke5uFU=
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - scoreTMP: {instanceID: 0}
+  - bombCountTMP: {instanceID: 0}
+  - pauseButton: {instanceID: 0}
+  - resumeButton: {instanceID: 0}
+  - gameOverPanel: {instanceID: 0}
+  - bestScoreTMP: {instanceID: 0}
+  - currentScoreTMP: {instanceID: 0}
+  - restartButton: {instanceID: 0}
+  - quitButton: {instanceID: 0}
+  - heartUIPrefab: {instanceID: 0}
+  - heartContainer: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
